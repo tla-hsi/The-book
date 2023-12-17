@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(247, 241, 232);
+}
+#r{
+    background-color: rgb(240, 245, 243);
+    height: 400px;
+}
+#my{
+    background-color: blueviolet;
+    width: 100%;
+    height: 40px;
+}
+#tasks{
+    background-color: rgb(157, 155, 158);
+    box-shadow: 0px 11px 11px rgb(218, 170, 16) ;
+    background-color: rgb(248, 248, 247);
+    margin: 65px;
+}
+.mt{
+    background-color: white;
+    /* padding: 0.2px; */
+    display: flex;
+    justify-content: space-between;
+    margin: 1px; 
+    box-shadow: 0px 1px 1px rgb(22, 22, 22) ;
+}
+.done{
+    background-color: rgb(182, 231, 168);
+    /* padding: 0.2px; */
+    display: flex;
+    justify-content: space-between;
+    margin: 1px; 
+    box-shadow: 0px 1px 1px rgb(22, 22, 22) ;
+}
+.mt:hover{
+transform: translateY(2PX);
+
+}
+#id{
+    margin: 0 22px;
+}
+.mt p{
+    /* color: brown; */
+    color: #000;
+    margin-top: -20px;
+    font-size: 12px;
+}
+.mt p i{
+    font-size:18px;
+}
+#bu button{
+    display: inline-block;
+    margin: 18px 30px;
+}
+#tir{
+    /* font-size:15px; */
+    background-color: rgb(25, 62, 141);
+    height: 22px;
+    width: 22px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-size: 12px;
+    color: white;
+    border-radius: 50%;
+}
+#sec{
+    background-color: rgb(4, 124, 4);
+    height: 22px;
+    width: 22px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-size: 12px;
+    color: white;
+    border-radius: 50%;
+}
+button{
+    height: 24px;
+    width: 24px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-size: 12px;
+    color: white;
+    border-radius: 50%;
+}
+#bi{
+    display: inline-block;
+    margin: 9px 10px;
+    background-color: white;
+    color: #000;
+}
+#pre{
+    background-color: rgb(146, 15, 15);
+    /* height: 24px;
+    width: 24px; */
+    border: none;
+    font-size: 12px;
+    color: white;
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+}
+#bu{
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 20%;
+
+}
+
+
+
+
+
